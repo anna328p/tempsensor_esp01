@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "! ESP8266")(type "Legacy")(uri "${KIPRJMOD}/vendor/kicad-ESP8266/ESP8266.lib")(options "")(descr ""))
+  (lib (name "! DPS310")(type "Legacy")(uri "${KIPRJMOD}/vendor/DPS310/DPS310.lib")(options "")(descr ""))
+  (lib (name "! SHT40-AD1B-R2")(type "Legacy")(uri "${KIPRJMOD}/vendor/SHT40-AD1B-R2/SHT40-AD1B-R2.lib")(options "")(descr ""))
+  (lib (name "! FT234XD-R")(type "Legacy")(uri "${KIPRJMOD}/vendor/FT234XD-R/FT234XD-R.lib")(options "")(descr ""))
+  (lib (name "! FT234XD-R-mod")(type "KiCad")(uri "${KIPRJMOD}/vendor/FT234XD-R-mod/! FT234XD-R-mod.kicad_sym")(options "")(descr ""))
+)

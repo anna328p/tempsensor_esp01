@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "! ESP8266")(type "KiCad")(uri "${KIPRJMOD}/vendor/kicad-ESP8266/ESP8266.pretty")(options "")(descr ""))
+  (lib (name "! SHT40-AD1B-R2")(type "KiCad")(uri "${KIPRJMOD}/vendor/SHT40-AD1B-R2")(options "")(descr ""))
+  (lib (name "! DPS310")(type "KiCad")(uri "${KIPRJMOD}/vendor/DPS310")(options "")(descr ""))
+  (lib (name "! FT234XD-R")(type "KiCad")(uri "${KIPRJMOD}/vendor/FT234XD-R")(options "")(descr ""))
+)

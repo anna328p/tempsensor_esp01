@@ -1,0 +1,29 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# SHT40-AD1B-R2
+#
+DEF SHT40-AD1B-R2 U 0 40 Y Y 1 L N
+F0 "U" -400 350 50 H V L BNN
+F1 "SHT40-AD1B-R2" -400 -400 50 H V L BNN
+F2 "XDCR_SHT40-AD1B-R2" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "None" 0 0 50 H I L BNN "Package"
+F5 "SHT40-AD1B-R2" 0 0 50 H I L BNN "MP"
+F6 "Digital Relative Humidity Temperature Sensor, ±1.0 %RH, ±0.1 °C, Ultra-Low-Power" 0 0 50 H I L BNN "Description"
+F7 "https://pricing.snapeda.com/search/part/SHT40-AD1B-R2/?ref=eda" 0 0 50 H I L BNN "Purchase-URL"
+F8 "Sensirion" 0 0 50 H I L BNN "MF"
+F9 "None" 0 0 50 H I L BNN "Price"
+F10 "In Stock" 0 0 50 H I L BNN "Availability"
+DRAW
+S -400 -300 400 300 0 0 10 f
+X SCL 2 -600 100 200 R 40 40 0 0 I C
+X SDA 1 -600 -100 200 R 40 40 0 0 B 
+X VDD 3 600 200 200 L 40 40 0 0 W 
+X VSS 4 600 -200 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library
