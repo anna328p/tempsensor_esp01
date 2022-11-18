@@ -3,4 +3,5 @@
   (lib (name "! SHT40-AD1B-R2")(type "KiCad")(uri "${KIPRJMOD}/vendor/SHT40-AD1B-R2")(options "")(descr ""))
   (lib (name "! DPS310")(type "KiCad")(uri "${KIPRJMOD}/vendor/DPS310")(options "")(descr ""))
   (lib (name "! FT234XD-R")(type "KiCad")(uri "${KIPRJMOD}/vendor/FT234XD-R")(options "")(descr ""))
+  (lib (name "! TS-1187A-B-A-B")(type "KiCad")(uri "${KIPRJMOD}/vendor/TS-1187A-B-A-B")(options "")(descr ""))
 )
