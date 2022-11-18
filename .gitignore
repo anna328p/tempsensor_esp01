@@ -1,8 +1,10 @@
 /#auto_saved_files#
 **/_autosave-*
 /*-backups/**
-/out/**
+
 /fp-info-cache
 
 /*.xml
 /*.csv
+/out/**
+/out.zip
